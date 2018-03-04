@@ -2,8 +2,6 @@
 # General Site Settings
 
 menu:
-- {name: 'Highlights', url: ''}
-- {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
@@ -62,9 +60,8 @@ projects:
 
 social:
 - {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/alisondemperio/'}
+- {icon: 'instagram', link: 'https://www.instagram.com/reallifedoge/'}
 - {icon: 'envelope', link: 'mailto:#'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
