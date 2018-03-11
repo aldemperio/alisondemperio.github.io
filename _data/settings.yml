@@ -43,23 +43,22 @@ about: >
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com).
+  You may contact me [through my email](mailto:aldemperio@gmail.com).
 
 #-------------------------------
 # Work Section
 
 projects:
-- {name: 'Me', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Sustainability & Automotive', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Creative & Analytical', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Globally Minded', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'Software Project Management', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Automotives & Sustainability', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'Global Strategy', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'Opportunity', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'Inspiration', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/alisondemperio/'}
 - {icon: 'instagram', link: 'https://www.instagram.com/reallifedoge/'}
 - {icon: 'envelope', link: 'mailto:#'}
