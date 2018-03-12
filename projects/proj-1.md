@@ -10,4 +10,4 @@ I introduce processes and tools to the Project Management Office, yet am careful
 
 {% include image.html image="projects/proj-1/wall.PNG" %}
 
-{% include image.html image="projects/proj-1/deliver.jpg" %}
+{% include image.html image="projects/proj-1/deliver.JPG" %}
