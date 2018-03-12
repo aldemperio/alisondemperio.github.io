@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Automotive'
+title: 'Automotives & Sustainability'
 ---
 
 The intersection of automotives and sustainability excites me.  I am particularly passionate about autonomous driving and shared mobility and their respective impact on smart cities and healthier living.  While car ownership is on the brink of decline, the market for substitute services has no limits; and I want to be part of this change from within.
