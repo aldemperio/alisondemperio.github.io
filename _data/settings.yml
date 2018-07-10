@@ -49,7 +49,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Software Project Management', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Technical Project Management', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'Automotives & Sustainability', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Global Strategy', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Opportunity', folder: 'proj-4', file: 'projects/proj-4.html'}
